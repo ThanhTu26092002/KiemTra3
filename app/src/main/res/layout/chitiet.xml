@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    tools:context=".ChiTiet"
+    tools:layout_editor_absoluteX="-2dp"
+    tools:layout_editor_absoluteY="100dp">
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="27dp"
+        android:layout_marginEnd="262dp"
+        android:onClick="ChiTiet"
+        android:text="Back To Dish"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="401dp"
+        android:layout_height="234dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="75dp"
+        android:text="Nguyễn Du (1765 – 1820) tên chữ là Tố Như, hiệu là Thanh Hiên.
+
+Quê quán: Làng Tiên Điền, huyện Nghi Xuân, tỉnh Hà Tĩnh.
+
+Gia đình: Nguyễn Du sinh trưởng trong một gia đình đại quý tộc, nhiều đời làm quan và có truyền thống về văn học. Cha là Nguyễn Nghiễm, đỗ tiến sĩ, từng giữ chức Tể tướng. Chính điều này là cái nôi nuôi dưỡng tài năng văn học của Nguyễn Du.
+
+Cuộc đời Nguyễn Du gắn bó sâu sắc với những biến cố lịch sử của giai đoạn cuối thế kỉ XVIII – XIX. Đây là giai đoạn lịch sử đầy biến động với hai đặc điểm nổi bật là chế độ phong kiến Việt Nam khủng hoảng trầm trọng và phong trào nông dân khởi nghĩa nổi lên khắp nơi, đỉnh cao là phong trào Tây Sơn.
+
+Yếu tố thời đại đã ảnh hưởng sâu sắc tới ngòi bút của Nguyễn Du khi viết về hiện thực đời sống. cuộc đời từng trải, phiêu bạt nhiều năm trên đất Bắc, đi nhiều, tiếp xúc nhiều đã tạo cho Nguyễn Du vốn sống phong phú và niềm thông cảm sâu sắc với những đau khổ của nhân dân. Nguyễn Du là một thiên tài văn học, một nhà nhân đạo chủ nghĩa lớn."
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="389dp"
+        android:layout_height="165dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="328dp"
+        android:text="Có thuyết nói Nguyễn Du viết Truyện Kiều sau khi đi sứ Trung Quốc (1814–1820). Lại có thuyết nói ông viết trước khi đi sứ, có thể vào khoảng cuối thời Lê đầu thời Tây Sơn. Thuyết sau được nhiều người chấp nhận hơn. Ngay sau khi ra đời, Truyện Kiều được nhiều nơi khắc in và lưu hành rộng rãi. Hai bản in xưa nhất hiện còn là bản của Liễu Văn Đường (1871) và bản của Duy Minh Thị (1872), đều ở thời vua Tự Đức.
+
+Truyện dựa theo bộ truyện văn xuôi Kim Vân Kiều truyện của Thanh Tâm Tài Nhân, lấy bối cảnh Trung Quốc thời vua Gia Tĩnh Đế đời nhà Minh (từ năm 1521 tới năm 1567). Có một số nhân vật như tổng đốc Hồ Tôn Hiến, kỹ nữ Vương Thúy Kiều, nhân vật Từ Hải là có thật trong lịch sử.
+
+Bản in khắc đầu tiên năm 1920 có tựa chính thức là Đoạn trường tân thanh (chữ Hán: 斷腸新聲), có nghĩa là ” tiếng kêu mới về nỗi đau lòng đứt ruột”.
+
+"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="510dp"
+        android:text="Phần 1: Gặp gỡ và đính ước.
+Thúy Kiều là người con gái tài sắc vẹn toàn, sống trong cảnh êm ấm cùng cha mẹ và hai em. Trong buổi du xuân vô tình gặp Kim Trọng. Hai bên nảy sinh tình cảm và chủ động, tự do đính ước.
+
+Phần 2: Gia biến và lưu lạc.
+Khi Kim Trọng về quê, gia đình Kiều gặp tai biến. Kiều bán mình chuộc cha, nhờ Thúy Vân trả nghĩa cho kim Trọng và bị bọn buôn người lừa vào lầu xanh. Kiều gặp Thúc Sinh và được Thúc Sinh cứu thoát khỏi cuộc đời kĩ nữ nhưng lại bị vợ cả của TS đày đọa. Kiều phải trốn đi và nương nhờ cửa Phật. Nhưng không may, Kiều lại rơi vào lầu xanh lần nữa. Ở đây nàng gặp Từ Hải. Từ Hải lấy Kiều làm vợ và giúp nàng báo ân, oán. Do bị Hồ Tôn Hiến lừa, Từ Hải bị giết, Kiều bị ép gả cho viên thổ quan. Đau đớn, tủi nhục, Kiều nhảy sông tự vẫn nhưng được sư Giác Duyên cứu và lại nương nhờ cửa Phật.
+
+Phần 3: Đoàn tụ
+Sau khi biết Kiều bán mình chuộc cha, Kim Trọng đau đớn vô cùng. Tuy đã lấy Thúy Vân nhưng chàng vẫn không nguôi mối tình đầu say đắm và quyết tâm đi tìm Kiều. Nhờ gặp sư Giác Duyên, Kiều, Trọng gặp nhau, gia đình đoàn tụ. Kiều chiều ý mọi người kết duyên cùng Kim Trọng nhưng cả hai cùng thề nguyện ” duyên đôi lứa cũng là duyên bạn bầy”."
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
